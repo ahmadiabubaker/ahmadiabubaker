@@ -50,7 +50,8 @@ Linux, daemons, APIs, automation. Slowly making my way toward MLOps.
 
 ---
 
-<sub><img src="https://raw.githubusercontent.com/ahmadiabubaker/ahmadiabubaker/output/snake-dark.svg" alt="snake" />
-currently: making Linux do things it didn't want to do ⚡</sub>
+<sub><img src="https://raw.githubusercontent.com/ahmadiabubaker/ahmadiabubaker/output/snake-dark.svg" alt="snake" /></sub>
+
+<sub>currently: making Linux do things it didn't want to do ⚡</sub>
 
 </div>
